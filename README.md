@@ -1,4 +1,4 @@
-# Training Conducted by me to train system team on SED command
+# Training Conducted by me to train system team on usages of SED command
 
 The SED command in UNIX stands for stream editor and it can perform lot’s of functions on files like, searching, find and replace, insertion or deletion. Though most common use of SED commands in UNIX is for substitution or for find and replace.
 
